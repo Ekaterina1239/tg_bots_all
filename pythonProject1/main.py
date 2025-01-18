@@ -4,7 +4,7 @@ from aiogram.types import BotCommand, InlineKeyboardButton, InlineKeyboardMarkup
 import logging
 
 # Вставьте сюда ваш токен Telegram-бота
-API_TOKEN = '7918625265:AAHEhZIv1LpKIw4Hkno7th0uGbUis63-Dss'
+API_TOKEN = 'Your token'
 
 
 logging.basicConfig(level=logging.INFO)
