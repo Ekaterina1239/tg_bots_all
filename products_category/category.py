@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
-BOT_TOKEN ='7642998085:AAGWDelrBVrQ5KnlidwD9v2czkpxDDzE7r8'
+BOT_TOKEN ='Your token'
 DB_HOST = "localhost"
 DB_USER = "root"
 DB_NAME = "baza"
