@@ -4,7 +4,7 @@ from aiogram.types import Message
 from aiogram.filters import Command
 
 # Настройки
-BOT_TOKEN = '7642998085:AAGWDelrBVrQ5KnlidwD9v2czkpxDDzE7r8'
+BOT_TOKEN = 'Your token'
 DB_HOST = "localhost"
 DB_USER = "root"
 DB_PASSWORD = ""
