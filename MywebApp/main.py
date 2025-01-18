@@ -7,7 +7,7 @@ from aiogram.types import BotCommand, InlineKeyboardButton, InlineKeyboardMarkup
     MenuButtonWebApp, WebAppInfo
 
 # Вставьте сюда ваш токен Telegram-бота
-API_TOKEN = '7918625265:AAHEhZIv1LpKIw4Hkno7th0uGbUis63-Dss'
+API_TOKEN = 'Your token'
 
 
 # Создание экземпляров бота и диспетчера
